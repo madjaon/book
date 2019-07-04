@@ -1,0 +1,1 @@
+function paging(t){var e=document.getElementById("id").value;$.ajax({type:"post",url:"/paging",data:{id:e,page:t},success:function(t){return $("#chapters").html(t),!1},error:function(t){return $("#chapters").html(""),!1}})}

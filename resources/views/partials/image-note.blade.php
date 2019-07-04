@@ -1,0 +1,2 @@
+<p>Định dạng ảnh: jpg, jpeg. Tên thư mục & tên ảnh phải là không dấu, không chứa dấu cách + kí tự đặc biệt. Dung lượng ảnh nhẹ (< 1mb)<br>Thumbnail: {{ DIMENSIONS }}</p>
+<p>Ảnh chia sẻ trên facebook (Meta Image): cỡ lớn: 1200 x 630, cỡ nhỏ: 600 x 315, tối thiếu: 200 x 200</p>
